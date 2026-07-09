@@ -1,4 +1,7 @@
-# Projeto Base Aulas de Laravel
+# Projeto de gerenciamento de um DB estilo spotify
+
+## O que ele faz?
+Voce pode adicionar remover e criar albuns, musicas e artistas. Albuns pertencem a artistas e musicas pertencem a albuns
 
 ## Dependências
 - [php](https://www.php.net/downloads.php?os=windows&osvariant=windows-native&version=default)
